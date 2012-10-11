@@ -179,6 +179,9 @@ fi
 
 AC_OUTPUT([Makefile
            lib/Makefile
+           lib/cmyth/Makefile
+           lib/cmyth/libcmyth/Makefile
+           lib/cmyth/librefmem/Makefile
            lib/jsoncpp/Makefile
            lib/libhts/Makefile
            lib/tinyxml/Makefile
